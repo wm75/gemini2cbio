@@ -1,0 +1,5 @@
+Hugo_Symbol	Entrez_Gene_Id	Center	NCBI_Build	Start_Position	End_Position	Strand	Variant_Classification	Variant_Type	Reference_Allele	Tumor_Seq_Allele1	Tumor_Sample_Barcode	Mutation_Status	HGVSp_Short	Chromosome
+ANKRD30A	5345848	Sequenz Zentrum	GRCh37	37442506	37442507	+	Splice_Site	snv	G	A	abx	somatisch	p.Cys516Tyr	chr10
+ANKRD30A	5345848	Sequenz Zentrum	GRCh37	37442504	37442503	+	Frame_Shift_Ins	indel	G	C	abx	somatisch	p.Cys516Tyr	chr10
+ANKRD30A	5345848	Sequenz Zentrum	GRCh37	37442501	37442501	+	IGR	snv	G	C	abx	somatisch	p.Cys516Tyr	chr11
+ANKRD30A	5345848	Sequenz Zentrum	GRCh37	37442501	37442501	+	Intron	snv	G	C	abx	somatisch	p.Cys516Tyr	chr11

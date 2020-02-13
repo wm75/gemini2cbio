@@ -1,0 +1,5 @@
+chrom	start	end	ref	alt	type	sub_type	gene	aa_change	impact	impact_so	entrez_id	strand	transcript
+chr10	37442506	37442507	G	A	snv		ANKRD30A	p.Cys516Tyr	splice_acceptor_variant	SPLICE_SITE_ACCEPTOR	5345848	+	545451
+chr10	37442504	37442503	G	C	indel	ins	ANKRD30A	p.Cys516Tyr	frameshift_variant	FRAME_SHIFT	5345848	+	545451
+chr11	37442501	37442501	G	C	snv		ANKRD30A	p.Cys516Tyr	regulatory_region_variant		5345848	+	545451
+chr11	37442501	37442501	G	C	snv		ANKRD30A	p.Cys516Tyr		INTRAGENIC	5345848	+	545451
